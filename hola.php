@@ -1,1 +1,1 @@
-"Hola Mundo\n";
+"Hola {$argv[1]}\n";
